@@ -1,0 +1,3 @@
+# student
+用来自己学习
+主要是研究使用chatglm-6b模型与群晖chat机器人之间的通讯，从而实现在群晖chat下使用本地化部署的chatglm-6b模型
